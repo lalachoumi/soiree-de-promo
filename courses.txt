@@ -3,3 +3,4 @@ Listes de courses
 -jus de pomme
 -pizza
 -gâteau au chocolat
+-glaçons
