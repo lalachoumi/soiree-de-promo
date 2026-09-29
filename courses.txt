@@ -1,3 +1,4 @@
 Listes de courses
 -chips
 -jus de pomme
+-pizza
